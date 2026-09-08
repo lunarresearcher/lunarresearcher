@@ -1,20 +1,23 @@
 <!--
-EDIT THESE FIRST:
-1) Put your banner at: assets/banner.png
-2) Replace YOUR_GITHUB_USERNAME everywhere
-3) Replace YOUR_NAME / links / project names if needed
+SETUP:
+1) Repository name must be exactly your GitHub username.
+2) Put your top image at: assets/banner.gif or assets/banner.png
+3) Put your bottom image at: assets/footer.gif or assets/footer.png
+   (you can reuse the same image if you want)
+4) Replace EVERY occurrence of YOUR_GITHUB_USERNAME
+5) Replace links/contacts/project names if needed
 -->
 
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="lunar banner" />
 </p>
 
-<p align="center">
-  <b>building fast tools, automation & market-focused dev stuff.</b>
-</p>
+<h3 align="center">building fast tools, automation & market-focused dev stuff.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
 </p>
 
 ---
@@ -24,16 +27,31 @@ EDIT THESE FIRST:
 ```python
 developer = {
     "name": "lunar",
+    "role": "builder / developer / automation-first operator",
     "focus": [
-        "Robinhood tooling",
-        "Automation",
-        "Snipers",
-        "Fast dev workflows",
+        "market-focused tooling",
+        "automation",
+        "snipers & monitoring",
+        "fast prototyping",
+        "web tools & experiments",
     ],
-    "style": "build fast, keep it clean",
-    "status": "always shipping",
+    "mindset": "ship > talk",
+    "status": "always building",
 }
 ```
+
+---
+
+## ⚔️ Experience Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDER-MULTI--YEAR-111111?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=0b0b0b" />
+  <img src="https://img.shields.io/badge/SHIPPING-TOOLS%20%26%20AUTOMATION-111111?style=for-the-badge&logo=dependabot&logoColor=39ff14&labelColor=0b0b0b" />
+  <img src="https://img.shields.io/badge/FOCUS-MARKETS%20%7C%20DEV%20%7C%20EXECUTION-111111?style=for-the-badge&logo=tradingview&logoColor=39ff14&labelColor=0b0b0b" />
+</p>
+
+> I build useful things, iterate fast, and optimize for execution.  
+> Repositories here reflect experiments, production-minded tooling, automation workflows, and years of hands-on learning by shipping.
 
 ---
 
@@ -55,29 +73,39 @@ developer = {
 
 | Area | Description |
 |---|---|
-| 🟢 **Robinhood Tools** | Market-focused tools, helpers and workflows |
-| ⚡ **Snipers** | Fast monitoring, alerts and execution tooling |
-| 🤖 **Automation** | Scripts, bots and repeatable workflows |
-| 🧪 **Experiments** | Small builds, APIs and dev utilities |
+| 🟢 **Market Tools** | Monitoring, helpers, analytics and execution-focused workflows |
+| ⚡ **Snipers** | Fast listeners, alerts and action pipelines |
+| 🤖 **Automation** | Scripts, bots and systems that remove repetitive work |
+| 🧪 **Experiments** | Small products, APIs, dashboards and technical prototypes |
 
-> Nothing here is static — repos evolve as I build.
+> Nothing here is static — the repo list changes as I build.
+
+---
+
+## 🧱 Proof of Work
+
+- building & experimenting for years
+- public repos, tools and iterations
+- focused on execution, not just demos
+- rapid prototyping + practical automation
+- constant refinement of workflows and systems
 
 ---
 
 ## 🚀 Featured Projects
 
 ### `project-one`
-Short description of the project.
+One-liner about what it does and why it matters.
 
 `Python` `Automation` `API`
 
 ### `project-two`
-Short description of the project.
+One-liner about what it does and why it matters.
 
 `TypeScript` `Node.js`
 
 ### `project-three`
-Short description of the project.
+One-liner about what it does and why it matters.
 
 `Python` `Docker`
 
@@ -88,26 +116,38 @@ Short description of the project.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="Top languages"
   />
 </p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Streak
+
+> Real streak widgets show your actual GitHub activity.  
+> If the streak looks small, that means GitHub is reading low recent contribution activity.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=00000000"
     alt="GitHub streak"
   />
 </p>
+
+### ⚡ Builder Streak (custom section)
+
+```text
+Shipping mindset:    ████████████████████ 100%
+Iteration speed:     ██████████████████░░  90%
+Automation focus:    ███████████████████░  95%
+Execution under load:█████████████████░░░  88%
+```
 
 ---
 
@@ -117,4 +157,10 @@ Short description of the project.
   <a href="https://x.com/LunarResearcher">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=39ff14" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/footer.png" width="100%" alt="lunar footer" />
 </p>
