@@ -1,13 +1,3 @@
-<!--
-SETUP:
-1) Repository name must be exactly your GitHub username.
-2) Put your top image at: assets/banner.gif or assets/banner.png
-3) Put your bottom image at: assets/footer.gif or assets/footer.png
-   (you can reuse the same image if you want)
-4) Replace EVERY occurrence of YOUR_GITHUB_USERNAME
-5) Replace links/contacts/project names if needed
--->
-
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="lunar banner" />
 </p>
@@ -15,9 +5,9 @@ SETUP:
 <h3 align="center">building fast tools, automation & market-focused dev stuff.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=LunarResearcher&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/LunarResearcher?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/stars/LunarResearcher?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
 </p>
 
 ---
@@ -78,7 +68,7 @@ developer = {
 | 🤖 **Automation** | Scripts, bots and systems that remove repetitive work |
 | 🧪 **Experiments** | Small products, APIs, dashboards and technical prototypes |
 
-> Nothing here is static — the repo list changes as I build.
+> Nothing here is static - the repo list changes as I build.
 
 ---
 
@@ -116,12 +106,12 @@ One-liner about what it does and why it matters.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=LunarResearcher&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarResearcher&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="Top languages"
   />
 </p>
