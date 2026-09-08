@@ -5,8 +5,6 @@
 <h3 align="center">building fast tools, automation & market-focused dev stuff.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LunarResearcher&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/LunarResearcher?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
   <img src="https://img.shields.io/github/stars/LunarResearcher?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
 </p>
 
@@ -119,18 +117,6 @@ One-liner about what it does and why it matters.
 ---
 
 ## 🔥 Contribution Streak
-
-> Real streak widgets show your actual GitHub activity.  
-> If the streak looks small, that means GitHub is reading low recent contribution activity.
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LunarResearcher&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=00000000"
-    alt="GitHub streak"
-  />
-</p>
-
-### ⚡ Builder Streak (custom section)
 
 ```text
 Shipping mindset:    ████████████████████ 100%
