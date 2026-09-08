@@ -5,9 +5,6 @@
 <h3 align="center">building fast tools, automation & market-focused dev stuff.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lunarresearcher&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/lunarresearcher?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
-  <img src="https://img.shields.io/github/stars/lunarresearcher?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
   <a href="https://x.com/lunarresearcher">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=39ff14" alt="X / Twitter" />
   </a>
