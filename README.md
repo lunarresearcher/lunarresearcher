@@ -106,12 +106,12 @@ Low-latency event listener and sniper dashboard for high-signal market events an
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=lunarresearcher&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api?username=lunarresearcher&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunarresearcher&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lunarresearcher&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="Top languages"
   />
 </p>
