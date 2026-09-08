@@ -125,7 +125,7 @@ One-liner about what it does and why it matters.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=00000000"
+    src="https://streak-stats.demolab.com?user=LunarResearcher&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=00000000"
     alt="GitHub streak"
   />
 </p>
