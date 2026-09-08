@@ -5,7 +5,12 @@
 <h3 align="center">building fast tools, automation & market-focused dev stuff.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/LunarResearcher?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=lunarresearcher&label=PROFILE%20VIEWS&style=for-the-badge&color=39ff14" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/lunarresearcher?style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/stars/lunarresearcher?affiliations=OWNER&style=for-the-badge&color=111111&labelColor=39ff14&logo=github&label=STARS" alt="stars" />
+  <a href="https://x.com/lunarresearcher">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=39ff14" alt="X / Twitter" />
+  </a>
 </p>
 
 ---
@@ -66,7 +71,7 @@ developer = {
 | 🤖 **Automation** | Scripts, bots and systems that remove repetitive work |
 | 🧪 **Experiments** | Small products, APIs, dashboards and technical prototypes |
 
-> Nothing here is static - the repo list changes as I build.
+> Nothing here is static — the repo list changes as I build.
 
 ---
 
@@ -82,20 +87,20 @@ developer = {
 
 ## 🚀 Featured Projects
 
-### `project-one`
-One-liner about what it does and why it matters.
+### `luna-scan`
+Realtime market scanner for tracking movers, unusual volume and ticker momentum with clean terminal and web output.
 
-`Python` `Automation` `API`
+`Python` `APIs` `Monitoring`
 
-### `project-two`
-One-liner about what it does and why it matters.
+### `hoodflow`
+Automation toolkit for market workflows: watchlists, alerts, order prep and execution helpers.
 
-`TypeScript` `Node.js`
+`Python` `Automation` `Data Pipelines`
 
-### `project-three`
-One-liner about what it does and why it matters.
+### `snipewatch`
+Low-latency event listener and sniper dashboard for high-signal market events and rapid decision support.
 
-`Python` `Docker`
+`TypeScript` `Node.js` `WebSockets`
 
 ---
 
@@ -104,36 +109,26 @@ One-liner about what it does and why it matters.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=LunarResearcher&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=lunarresearcher&show_icons=true&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarResearcher&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunarresearcher&layout=compact&hide_border=true&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=00000000"
     alt="Top languages"
   />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## ⚡ Builder Streak
 
 ```text
-Shipping mindset:    ████████████████████ 100%
-Iteration speed:     ██████████████████░░  90%
-Automation focus:    ███████████████████░  95%
-Execution under load:█████████████████░░░  88%
+Shipping mindset:     ████████████████████ 100%
+Iteration speed:      ██████████████████░░  90%
+Automation focus:     ███████████████████░  95%
+Execution under load: █████████████████░░░  88%
 ```
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="https://x.com/LunarResearcher">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=39ff14" />
-  </a>
-</p>
 
 ---
 
